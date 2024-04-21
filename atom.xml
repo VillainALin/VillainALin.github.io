@@ -3,11 +3,11 @@
   <title>Villain` Blok</title>
   
   <subtitle>生活明朗，万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://villainalin.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://villainalin.github.io/"/>
   <updated>2024-04-19T09:27:37.661Z</updated>
-  <id>http://example.com/</id>
+  <id>https://villainalin.github.io/</id>
   
   <author>
     <name>Villain_Lin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/undefined/4a17b156.html"/>
-    <id>http://example.com/undefined/4a17b156.html</id>
+    <link href="https://villainalin.github.io/undefined/4a17b156.html"/>
+    <id>https://villainalin.github.io/undefined/4a17b156.html</id>
     <published>2024-04-19T08:35:44.070Z</published>
     <updated>2024-04-19T09:27:37.661Z</updated>
     
